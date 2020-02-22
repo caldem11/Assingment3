@@ -10,7 +10,8 @@ namespace Assignment_4
     {
         static void Main(string[] args)
         {
-            
+            controler contr = new controler();
+            contr.userinterface();
         }
     }
 }
